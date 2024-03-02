@@ -1,0 +1,25 @@
+html{ 
+    background-color:#000000;
+}
+
+p{
+    color: rgb(232, 192, 239);
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: italic;
+        font-size: large;
+        font-size: 4ch;
+        text-align: center;
+      
+      
+}
+div{
+text-align: center;
+width: 50%;
+margin-left: 25%;
+margin-top: 100px;
+}
+img{ 
+    border: 1px solid rgb(228, 155, 241);
+    width: 90%;
+}
